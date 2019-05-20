@@ -1,0 +1,15 @@
+GET http://localhost:3000/
+###
+POST http://localhost:3000/
+###
+GET http://localhost:3000/pincode
+###
+POST http://localhost:3000/pincode
+###
+GET http://localhost:3000/pincode/state/Assam
+###
+GET http://localhost:3000/pincode/pin/800001
+###
+GET http://localhost:3000/pincode/pin/721444-721456
+###
+GET http://localhost:3000/pincode
